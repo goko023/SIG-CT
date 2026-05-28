@@ -1,10 +1,11 @@
 ============================================
   SIG Config Tool v6
-  Visual configurator for SimpleItemGenerator
+  Visual configurator for SimpleItemGenerator.
+  
   Plugin Made by: balerii
+  
   Made by: Goko0023
   Made with Claude ( im new :/ )
-  From Turkiye
 ============================================
 
 INSTALLATION
