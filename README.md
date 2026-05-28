@@ -13,6 +13,7 @@ INSTALLATION
 1. Extract all files
 2. Run SIG_Generator.exe
   That's it.
+
 USAGE
 -----
   - Click "New Project" to create a new project
