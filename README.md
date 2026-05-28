@@ -3,16 +3,16 @@
   Visual configurator for SimpleItemGenerator.
   
   Plugin Made by: balerii
+  ============================================
   
   Made by: Goko0023
   Made with Claude ( im new :/ )
-============================================
 
 INSTALLATION
 ------------
-1. Run SIG_Generator.exe
-   That's it.
-
+1. Extract all files
+2. Run SIG_Generator.exe
+  That's it.
 USAGE
 -----
   - Click "New Project" to create a new project
