@@ -10,7 +10,7 @@
 INSTALLATION
 ------------
 1. Extract all files
-2. Run SIG_Generator.exe
+2. Run SIG_CT.exe
   That's it.
 
 USAGE
